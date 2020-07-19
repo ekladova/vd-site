@@ -8,6 +8,7 @@ const Banner = () => {
         <div>
           <h3 className="h3-header">
             <a
+              rel="noopener noreferrer"
               target="_blank"
               href="https://giacomosorbi.github.io/ekladova-module-ii/"
             >
@@ -16,6 +17,7 @@ const Banner = () => {
           </h3>
           <h3 className="h3-header">
             <a
+              rel="noopener noreferrer"
               target="_blank"
               href="https://github.com/ekladova/vd-site/tree/master/src/images"
             >

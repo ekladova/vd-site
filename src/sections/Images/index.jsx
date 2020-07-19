@@ -30,6 +30,7 @@ const Images = () => {
               <div>
                 <h3 className="h3-header">
                   <a
+                    rel="noopener noreferrer"
                     target="_blank"
                     href="https://github.com/ekladova/vd-site/blob/master/src/images/bannertree.jpg"
                   >
@@ -138,6 +139,7 @@ const Images = () => {
           <div className="header-container">
             <h3 className="h3-header">
               <a
+                rel="noopener noreferrer"
                 href="https://github.com/ekladova/vd-site/blob/master/src/images/stroke.svg"
                 target="_blank"
               >
@@ -194,6 +196,7 @@ const Images = () => {
             <div className="header-container">
               <h3 className="h3-header">
                 <a
+                  rel="noopener noreferrer"
                   href="https://github.com/ekladova/vd-site/blob/master/src/images/pen.jpg"
                   target="_blank"
                 >
@@ -306,6 +309,7 @@ const Images = () => {
               <div className="header-container">
                 <h3 className="h3-header">
                   <a
+                    rel="noopener noreferrer"
                     href="https://github.com/ekladova/vd-site/blob/master/src/images/facebook.png"
                     target="_blank"
                   >
@@ -383,6 +387,7 @@ const Images = () => {
               <div className="header-container">
                 <h3 className="h3-header">
                   <a
+                    rel="noopener noreferrer"
                     href="https://github.com/ekladova/vd-site/blob/master/src/images/INSTApng.png"
                     target="_blank"
                   >
@@ -463,6 +468,7 @@ const Images = () => {
             <div className="header-container">
               <h3 className="h3-header">
                 <a
+                  rel="noopener noreferrer"
                   href="https://github.com/ekladova/vd-site/blob/master/src/images/woman.jpg"
                   target="_blank"
                 >
@@ -489,7 +495,7 @@ const Images = () => {
 
               <div className="info">
                 <h3 className="h3-header">Result Size</h3>
-                <p className="info-text">42.0 KB (43,055 bytes)</p>
+                <p className="info-text">47.9 KB (49,120 bytes)</p>
                 <h3 className="h3-header">Result Dimentions</h3>
                 <p className="info-text">700x525</p>
               </div>
@@ -520,18 +526,28 @@ const Images = () => {
               </li>
               <li className="list-element">
                 After that, I wanted to apply a pink tint on top of the image to
-                make it fit more with the colour palette of the website.
+                make it fit more with the colour palette of the website. So,
+                originally I created a new layer and used the bucket tool to
+                paint it pink, then placed the pink layer on top of the original
+                image, but below the motion blur filter.I set the opacity of the
+                pink layer to 20%, creating a slight pink tint of the image.{" "}
+                <br />
+                However, I didn't like this approach so I removed the pink
+                layer.
               </li>
               <li className="list-element">
-                I created a new layer and used the bucket tool to paint it pink.
+                Instead, I selected the base picture and selected the
+                "Adjustments" tab.
               </li>
               <li className="list-element">
-                Then, I placed the pink layer on top of the original image, but
-                below the motion blur filter.
+                In the "Colour Balance", I selected "Midtones" from the dropdown
+                and decreased the "Magenta" colour slider down to -17
               </li>
               <li className="list-element">
-                Then I set the opacity of the pink layer to 20%, creating a
-                slight pink tint of the image.
+                Then, I opened "Brightness/Contrast" and increased the
+                brightness slider to 10, and decreased the "Contrast" slider to
+                -32. This gave the picture the hazy and low-contrast effect that
+                I was looking for.
               </li>
               <li className="list-element">
                 After that, I thought that to fully create a vintage image, I
@@ -550,7 +566,7 @@ const Images = () => {
                 placed first in the hierarchy.
               </li>
               <li className="list-element">
-                Then, I opened "blending options and selected "Multiply", which
+                Then, I opened "blending options" and selected "Multiply", which
                 left me with subtle pink stains all over the image.
               </li>
               <li className="list-element">
@@ -577,6 +593,7 @@ const Images = () => {
             <div className="gif-header-container">
               <h3 className="h3-header">
                 <a
+                  rel="noopener noreferrer"
                   href="https://github.com/ekladova/vd-site/blob/master/src/images/tweet.gif"
                   target="_blank"
                 >
@@ -585,6 +602,7 @@ const Images = () => {
               </h3>
               <h3 className="h3-header">
                 <a
+                  rel="noopener noreferrer"
                   href="https://github.com/ekladova/vd-site/blob/master/src/images/tweet-noname.gif"
                   target="_blank"
                 >
