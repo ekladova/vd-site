@@ -28,7 +28,14 @@ const Images = () => {
           <div className="right">
             <div className="images-container">
               <div>
-                <h3 className="h3-header">Banner</h3>
+                <h3 className="h3-header">
+                  <a
+                    target="_blank"
+                    href="https://github.com/ekladova/vd-site/blob/master/src/images/bannertree.jpg"
+                  >
+                    Banner
+                  </a>
+                </h3>
 
                 <div className="banner-images-container">
                   <div>
@@ -129,7 +136,14 @@ const Images = () => {
 
         <div className="stroke-container">
           <div className="header-container">
-            <h3 className="h3-header">Stroke</h3>
+            <h3 className="h3-header">
+              <a
+                href="https://github.com/ekladova/vd-site/blob/master/src/images/stroke.svg"
+                target="_blank"
+              >
+                Stroke
+              </a>
+            </h3>
           </div>
           <div>
             <img className="stroke" src={stroke} alt="stroke" />
@@ -178,7 +192,14 @@ const Images = () => {
         <div className="images-section">
           <div className="left">
             <div className="header-container">
-              <h3 className="h3-header">Feather Pen</h3>
+              <h3 className="h3-header">
+                <a
+                  href="https://github.com/ekladova/vd-site/blob/master/src/images/pen.jpg"
+                  target="_blank"
+                >
+                  Feather Pen
+                </a>
+              </h3>
             </div>
             <div>
               <img className="pen" src={pen} alt="pen" />
@@ -283,12 +304,19 @@ const Images = () => {
           <div className="left">
             <div>
               <div className="header-container">
-                <h3 className="h3-header">Facebook</h3>
+                <h3 className="h3-header">
+                  <a
+                    href="https://github.com/ekladova/vd-site/blob/master/src/images/facebook.png"
+                    target="_blank"
+                  >
+                    Facebook
+                  </a>
+                </h3>
               </div>
               <img className="social" src={facebook} alt="pen" />
             </div>
             <div className="header-container">
-              <h3 className="h3-header"> Original</h3>
+              <h3 className="h3-header">Original</h3>
             </div>
             <div>
               <img className="social" src={facebookO} alt="pen original" />
@@ -353,7 +381,14 @@ const Images = () => {
           <div className="left">
             <div>
               <div className="header-container">
-                <h3 className="h3-header">Instagram</h3>
+                <h3 className="h3-header">
+                  <a
+                    href="https://github.com/ekladova/vd-site/blob/master/src/images/INSTApng.png"
+                    target="_blank"
+                  >
+                    Instagram
+                  </a>
+                </h3>
               </div>
               <img className="social" src={insta} alt="pen" />
             </div>
@@ -426,7 +461,14 @@ const Images = () => {
         <div className="images-section">
           <div className="left">
             <div className="header-container">
-              <h3 className="h3-header">Woman Photo</h3>
+              <h3 className="h3-header">
+                <a
+                  href="https://github.com/ekladova/vd-site/blob/master/src/images/woman.jpg"
+                  target="_blank"
+                >
+                  Woman Photo
+                </a>
+              </h3>
             </div>
             <div>
               <img className="pen" src={woman} alt="pen" />
@@ -533,8 +575,22 @@ const Images = () => {
               <img className="gif" src={tweetNonameGig} alt="pen original" />
             </div>
             <div className="gif-header-container">
-              <h3 className="h3-header">Text variation</h3>
-              <h3 className="h3-header">No-text variation</h3>
+              <h3 className="h3-header">
+                <a
+                  href="https://github.com/ekladova/vd-site/blob/master/src/images/tweet.gif"
+                  target="_blank"
+                >
+                  Text variation
+                </a>
+              </h3>
+              <h3 className="h3-header">
+                <a
+                  href="https://github.com/ekladova/vd-site/blob/master/src/images/tweet-noname.gif"
+                  target="_blank"
+                >
+                  No-text variation
+                </a>
+              </h3>
             </div>
           </div>
           <div className="gif-description">
@@ -561,7 +617,7 @@ const Images = () => {
               </li>
               <li className="list-element">
                 I found and similarly painted some music note images, also in
-                the PNG format with transparent backgrounds.{" "}
+                the PNG format with transparent backgrounds.
               </li>
               <li className="list-element">
                 I arranged the bird and the music notes on the canvas, according
@@ -573,7 +629,7 @@ const Images = () => {
               </li>
               <li className="list-element">
                 I kept creating timeline frames, making a layer visible with
-                each frame.{" "}
+                each frame.
               </li>
               <li className="list-element">
                 In the "text" version, I tried changing the delay times on the
@@ -583,7 +639,7 @@ const Images = () => {
               <li className="list-element">
                 After that, I saved the final version for the web in the GIF
                 format, with no transparency to prevent the design from being
-                altered by an unfitting background.{" "}
+                altered by an unfitting background.
               </li>
             </ol>
           </div>
