@@ -29,6 +29,7 @@ const Images = () => {
             <div className="images-container">
               <div>
                 <h3 className="h3-header">Banner</h3>
+
                 <div className="banner-images-container">
                   <div>
                     <img
@@ -37,6 +38,7 @@ const Images = () => {
                       alt="banner with name"
                     />
                   </div>
+
                   <div>
                     <img
                       className="banner-image"
@@ -44,6 +46,7 @@ const Images = () => {
                       alt="banner without name"
                     />
                   </div>
+
                   <div>
                     <h3 className="h3-header">Original:</h3>
                     <img
@@ -51,6 +54,21 @@ const Images = () => {
                       src={treeO}
                       alt="banner without name"
                     />
+                  </div>
+                  <div className="information">
+                    <div className="info">
+                      <h3 className="h3-header">Original Size (Tree image)</h3>
+                      <p className="info-text">23.4 KB (24,036 bytes)</p>
+                      <h3 className="h3-header">Original Dimentions</h3>
+                      <p className="info-text">607x557</p>
+                    </div>
+
+                    <div className="info">
+                      <h3 className="h3-header">Result Size (With text)</h3>
+                      <p className="info-text">211 KB (216,277 bytes)</p>
+                      <h3 className="h3-header">Result Dimentions</h3>
+                      <p className="info-text">1920x1080</p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -146,6 +164,14 @@ const Images = () => {
                 and pixelate the shape.
               </li>
             </ol>
+            <div className="information">
+              <div className="info">
+                <h3 className="h3-header">Result Size</h3>
+                <p className="info-text">933 Bytes</p>
+                <h3 className="h3-header">Result Dimentions</h3>
+                <p className="info-text">1418x404</p>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -162,6 +188,21 @@ const Images = () => {
             </div>
             <div>
               <img className="pen" src={penO} alt="pen original" />
+            </div>
+            <div className="information">
+              <div className="info">
+                <h3 className="h3-header">Original Size (Pen image)</h3>
+                <p className="info-text">143 KB (147,272 bytes)</p>
+                <h3 className="h3-header">Original Dimentions</h3>
+                <p className="info-text">2400x2400</p>
+              </div>
+
+              <div className="info">
+                <h3 className="h3-header">Result Size</h3>
+                <p className="info-text">70.5 KB (72,258 bytes)</p>
+                <h3 className="h3-header">Result Dimentions</h3>
+                <p className="info-text">642x758</p>
+              </div>
             </div>
           </div>
           <div className="right ">
@@ -252,6 +293,21 @@ const Images = () => {
             <div>
               <img className="social" src={facebookO} alt="pen original" />
             </div>
+            <div className="information">
+              <div className="info">
+                <h3 className="h3-header">Original Size</h3>
+                <p className="info-text">538 KB (551,367 bytes)</p>
+                <h3 className="h3-header">Original Dimentions</h3>
+                <p className="info-text">1214x1214</p>
+              </div>
+
+              <div className="info">
+                <h3 className="h3-header">Result Size</h3>
+                <p className="info-text">5.44 KB (5,576 bytes)</p>
+                <h3 className="h3-header">Result Dimentions</h3>
+                <p className="info-text">150x150</p>
+              </div>
+            </div>
           </div>
           <div className="right description">
             <p className="">
@@ -306,6 +362,22 @@ const Images = () => {
             </div>
             <div>
               <img className="social" src={instaO} alt="pen original" />
+            </div>
+
+            <div className="information">
+              <div className="info">
+                <h3 className="h3-header">Original Size</h3>
+                <p className="info-text">182 KB (186,602 bytes)</p>
+                <h3 className="h3-header">Original Dimentions</h3>
+                <p className="info-text">600x600</p>
+              </div>
+
+              <div className="info">
+                <h3 className="h3-header">Result Size</h3>
+                <p className="info-text">15.4 KB (15,790 bytes)</p>
+                <h3 className="h3-header">Result Dimentions</h3>
+                <p className="info-text">150x150</p>
+              </div>
             </div>
           </div>
           <div className="description">
@@ -364,6 +436,21 @@ const Images = () => {
             </div>
             <div>
               <img className="pen" src={womanO} alt="pen original" />
+            </div>
+            <div className="information">
+              <div className="info">
+                <h3 className="h3-header">Original Size</h3>
+                <p className="info-text">215 KB (221,033 bytes)</p>
+                <h3 className="h3-header">Original Dimentions</h3>
+                <p className="info-text">1280x960</p>
+              </div>
+
+              <div className="info">
+                <h3 className="h3-header">Result Size</h3>
+                <p className="info-text">42.0 KB (43,055 bytes)</p>
+                <h3 className="h3-header">Result Dimentions</h3>
+                <p className="info-text">700x525</p>
+              </div>
             </div>
           </div>
           <div className="right ">
@@ -499,6 +586,21 @@ const Images = () => {
                 altered by an unfitting background.{" "}
               </li>
             </ol>
+          </div>
+          <div className="information">
+            <div className="info">
+              <h3 className="h3-header">Text version</h3>
+              <p className="info-text">8.06 KB (8,260 bytes)</p>
+              <h3 className="h3-header">Dimentions</h3>
+              <p className="info-text">400x400</p>
+            </div>
+
+            <div className="info">
+              <h3 className="h3-header">No text version</h3>
+              <p className="info-text">6.69 KB (6,854 bytes)</p>
+              <h3 className="h3-header">Result Dimentions</h3>
+              <p className="info-text">400x400</p>
+            </div>
           </div>
         </div>
       </section>
