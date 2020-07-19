@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfae71d65c72eebb0fb870a0516d33c3",
+    "revision": "f6f69cb8fe0823b898957b904b44ded1",
     "url": "/vd-site/index.html"
   },
   {
-    "revision": "ec5ff2c8df2c4f65a025",
-    "url": "/vd-site/static/css/main.ab33f723.chunk.css"
+    "revision": "448424119371cf1307c6",
+    "url": "/vd-site/static/css/main.1022bc4d.chunk.css"
   },
   {
     "revision": "22bfe66e767f1d2ea674",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vd-site/static/js/2.12058494.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec5ff2c8df2c4f65a025",
-    "url": "/vd-site/static/js/main.aea2cb88.chunk.js"
+    "revision": "448424119371cf1307c6",
+    "url": "/vd-site/static/js/main.0ed92983.chunk.js"
   },
   {
     "revision": "81535fc3a7bc445b7bd1",
@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vd-site/static/media/woman-original.bfaf12ca.jpg"
   },
   {
-    "revision": "8021d91f8a0024988a93cb0a528188d5",
-    "url": "/vd-site/static/media/woman.8021d91f.jpg"
+    "revision": "a7e97238fb0b7ef177a432c22b40162f",
+    "url": "/vd-site/static/media/woman.a7e97238.jpg"
   }
 ]);
