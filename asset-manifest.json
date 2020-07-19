@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/vd-site/static/css/main.ab33f723.chunk.css",
+    "main.js": "/vd-site/static/js/main.756958fe.chunk.js",
+    "main.js.map": "/vd-site/static/js/main.756958fe.chunk.js.map",
+    "runtime-main.js": "/vd-site/static/js/runtime-main.f31a521e.js",
+    "runtime-main.js.map": "/vd-site/static/js/runtime-main.f31a521e.js.map",
+    "static/js/2.12058494.chunk.js": "/vd-site/static/js/2.12058494.chunk.js",
+    "static/js/2.12058494.chunk.js.map": "/vd-site/static/js/2.12058494.chunk.js.map",
+    "index.html": "/vd-site/index.html",
+    "precache-manifest.65946e153a897b899a8241f370aa8c1f.js": "/vd-site/precache-manifest.65946e153a897b899a8241f370aa8c1f.js",
+    "service-worker.js": "/vd-site/service-worker.js",
+    "static/css/main.ab33f723.chunk.css.map": "/vd-site/static/css/main.ab33f723.chunk.css.map",
+    "static/js/2.12058494.chunk.js.LICENSE.txt": "/vd-site/static/js/2.12058494.chunk.js.LICENSE.txt",
+    "static/media/INSTApng.png": "/vd-site/static/media/INSTApng.c90039f2.png",
+    "static/media/about.png": "/vd-site/static/media/about.f5a8eeb1.png",
+    "static/media/banner-noname.jpg": "/vd-site/static/media/banner-noname.8757b819.jpg",
+    "static/media/bannertree.jpg": "/vd-site/static/media/bannertree.c19c7c2b.jpg",
+    "static/media/facebook-original.png": "/vd-site/static/media/facebook-original.3afa65b5.png",
+    "static/media/game.png": "/vd-site/static/media/game.f0d0a614.png",
+    "static/media/home.jpg": "/vd-site/static/media/home.01f03571.jpg",
+    "static/media/insta-original.png": "/vd-site/static/media/insta-original.dbcfafd2.png",
+    "static/media/pen-o.png": "/vd-site/static/media/pen-o.65a4a011.png",
+    "static/media/pen.jpg": "/vd-site/static/media/pen.f5823241.jpg",
+    "static/media/stroke.svg": "/vd-site/static/media/stroke.e09cfb93.svg",
+    "static/media/tree1.png": "/vd-site/static/media/tree1.df2957cc.png",
+    "static/media/woman-original.jpg": "/vd-site/static/media/woman-original.bfaf12ca.jpg",
+    "static/media/woman.jpg": "/vd-site/static/media/woman.8021d91f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f31a521e.js",
+    "static/js/2.12058494.chunk.js",
+    "static/css/main.ab33f723.chunk.css",
+    "static/js/main.756958fe.chunk.js"
+  ]
+}
