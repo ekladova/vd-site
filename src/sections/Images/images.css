@@ -1,0 +1,100 @@
+.images-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffe6e3;
+}
+
+.header-container {
+  margin: auto;
+}
+
+.right,
+.left {
+  width: 50%;
+  margin: 2vw;
+}
+
+.banner-image {
+  height: 20vw;
+  margin: 2vw;
+}
+
+.banner-images-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.description {
+  width: 90%;
+  text-align: left;
+  margin: auto;
+}
+.text-description {
+  width: 90%;
+  margin: auto;
+}
+
+.list-element {
+  margin: 1vw;
+  text-align: left;
+}
+
+.stroke {
+  height: 20vw;
+  margin: 2vw;
+}
+
+.pen {
+  height: 30vw;
+  margin: 2vw;
+}
+
+.social {
+  max-height: 20vw;
+}
+.social-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #ffe6e3;
+}
+
+.gif-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.gifs-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.gif {
+  max-height: 15vw;
+  margin: 2vw;
+}
+.gif-header-container {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.h3-header {
+  margin: 2vw 3vw;
+}
+
+.h2-header {
+  margin: 5vw;
+}
+
+.gif-description {
+  width: 90%;
+  margin: 2vw auto;
+}

@@ -1,0 +1,20 @@
+.mockup-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffe6e3;
+}
+.mockup {
+  height: 60vw;
+  width: auto;
+  margin: 2vw;
+}
+.mockup-small {
+  height: 30vw;
+  margin: 2vw 2vw 0 2vw;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
